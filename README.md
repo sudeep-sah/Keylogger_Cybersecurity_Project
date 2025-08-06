@@ -10,10 +10,10 @@ A simple yet effective **Python-based keylogger** developed during a cybersecuri
 
 Keylogger_Cybersecurity_Project/
 │
-├── keylogger.py            # Main keylogging script
-├── detect\_keylogger.py     # Detection script to flag if keystrokes are logged
-├── keystrokes.txt          # Text file storing captured keystrokes (for demo/framework)
-└── README.md               # Project documentation you are viewing now
+├── keylogger.py            * Main keylogging script*
+├── detect\_keylogger.py     * Detection script to flag if keystrokes are logged*
+├── keystrokes.txt          * Text file storing captured keystrokes (for demo/framework)*
+└── README.md               * Project documentation you are viewing now*
 
 
 ##  Features
@@ -28,19 +28,19 @@ Keylogger_Cybersecurity_Project/
 ##  How to Use
 
 1. Ensure Python 3.x is installed on your system:
-   python --version
+   *python --version*
 
 2. Install the required Python package:
-   pip install pynput
+   *pip install pynput*
 
 3. Run the keylogger:
-   python keylogger.py
+  * python keylogger.py*
 
 4. View the logs:
-   keystrokes.txt
+   *keystrokes.txt*
 
 5. To check if logging has been performed, run:
-   python detect_keylogger.py
+   *python detect_keylogger.py*
 
 ## Author
 
