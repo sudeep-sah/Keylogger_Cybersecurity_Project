@@ -8,7 +8,7 @@ A simple yet effective **Python-based keylogger** developed during a cybersecuri
 
 ##  Project Structure
 
-Keylogger\_Cybersecurity\_Project/
+Keylogger_Cybersecurity_Project/
 │
 ├── keylogger.py            # Main keylogging script
 ├── detect\_keylogger.py     # Detection script to flag if keystrokes are logged
