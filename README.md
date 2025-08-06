@@ -39,18 +39,20 @@ A simple yet effective **Python-based keylogger** developed during a cybersecuri
    *pip install pynput*
 
 3. Run the keylogger:
-  * python keylogger.py*
+   *python keylogger.py*
 
-4. View the logs:
+5. View the logs:
    *keystrokes.txt*
 
-5. To check if logging has been performed, run:
+6. To check if logging has been performed, run:
    *python detect_keylogger.py*
 
 ## Author
 
 **Sudeep Kumar Sah**
+
 GitHub: [sudeep-sah](https://github.com/sudeep-sah)
+
 LinkedIn: https://www.linkedin.com/in/sudeep-kumar-sah
 
 
