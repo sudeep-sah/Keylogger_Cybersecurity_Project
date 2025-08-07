@@ -48,7 +48,7 @@ A simple yet effective **Python-based keylogger** developed during a cybersecuri
    *python detect_keylogger.py*
 
 ## 📹 Demo Video
-Watch the demo here: [LinkedIn Post](https://www.linkedin.com/posts/sudeep-kumar-sah_pinnaclelabs-pinnaclelabsinternship-cybersecurity-activity-7359129907303436288-YTo8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7DTg0BUmMpFnJlmaEn2W-6Q3IQt-7MiW4).
+Watch the demo here: [LinkedIn Post](https://www.linkedin.com/posts/sudeep-kumar-sah_pinnaclelabs-pinnaclelabsinternship-cybersecurity-activity-7359212476913065986-g727?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7DTg0BUmMpFnJlmaEn2W-6Q3IQt-7MiW4)
 
 
 ## Author
@@ -57,7 +57,7 @@ Watch the demo here: [LinkedIn Post](https://www.linkedin.com/posts/sudeep-kumar
 
 GitHub: [sudeep-sah](https://github.com/sudeep-sah)
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/sudeep-kumar-sah).
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/sudeep-kumar-sah)
 
 
 *If you found this project useful or would like to collaborate, feel free to star ⭐ the repo or reach out!*
